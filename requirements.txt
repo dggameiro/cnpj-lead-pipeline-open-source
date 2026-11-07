@@ -1,0 +1,23 @@
+# ==============================================================================
+# PIPELINE DE DADOS ABERTOS DE CNPJ - LONDRINA/PR
+# Solução de Engenharia de Dados e Prospecção Comercial
+# ==============================================================================
+# Este projeto foi arquitetado utilizando exclusivamente módulos nativos da
+# biblioteca padrão do Python 3.10+ (Standard Library).
+#
+# Não há dependências de pacotes externos gerenciados via pip (como pandas,
+# requests ou sqlalchemy), garantindo portabilidade, baixo consumo de recursos
+# e facilidade de execução em qualquer ambiente padrão.
+#
+# Principais módulos da biblioteca padrão utilizados:
+# - sqlite3             : Persistência relacional em banco de dados local.
+# - urllib.request      : Consumo de APIs públicas (BrasilAPI) e checagem HTTP.
+# - concurrent.futures  : Execução multithreaded para inspeção web concorrente.
+# - argparse            : Interface de linha de comando (CLI) para main.py.
+# - json                : Manipulação de dados semiestruturados e configurações.
+# - csv                 : Exportação dos dados consolidados para planilhas.
+# - re                  : Validação e mascaramento via expressões regulares.
+# - logging             : Rastreamento estruturado das etapas do pipeline.
+# - unittest            : Bateria de testes unitários automatizados.
+# ==============================================================================
+

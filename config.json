@@ -1,0 +1,51 @@
+{
+  "location": {
+    "city": "LONDRINA",
+    "state": "PR",
+    "default_area_code": "43",
+    "priority_neighborhoods": [
+      "Centro",
+      "Gleba Palhano",
+      "Jardim Higienópolis",
+      "Shangri-Lá",
+      "Vila Ipiranga"
+    ]
+  },
+  "registration_filters": {
+    "required_status": "ACTIVE",
+    "only_with_phone": false
+  },
+  "target_segments": [
+    {
+      "code": "4781400",
+      "description": "Comércio varejista de artigos do vestuário e acessórios",
+      "segment": "Moda e Vestuário"
+    },
+    {
+      "code": "4772500",
+      "description": "Comércio varejista de cosméticos, produtos de perfumaria e higiene pessoal",
+      "segment": "Beleza e Cosméticos"
+    },
+    {
+      "code": "4782201",
+      "description": "Comércio varejista de calçados",
+      "segment": "Calçados e Bolsas"
+    }
+  ],
+  "sales_funnel": {
+    "allowed_statuses": [
+      "NEW",
+      "CONTACTED",
+      "MEETING_SCHEDULED",
+      "PROPOSAL_SENT",
+      "CONTRACT_SIGNED",
+      "NOT_INTERESTED"
+    ],
+    "outreach_channels": [
+      "WhatsApp",
+      "Phone",
+      "Email",
+      "In-Person"
+    ]
+  }
+}

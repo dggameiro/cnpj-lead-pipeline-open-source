@@ -1,0 +1,50 @@
+{
+  "origem": "radar-cnpj-mcp",
+  "filtro": {
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "cnaes": [
+      "4781400",
+      "4772500",
+      "4782201"
+    ],
+    "situacao": "ATIVA"
+  },
+  "total_encontrado": 2,
+  "empresas": [
+    {
+      "cnpj": "45678901000175",
+      "razao_social": "MODELO CONFECCOES E ROUPAS LTDA",
+      "nome_fantasia": "MODELO MODA",
+      "situacao_cadastral": "ATIVA",
+      "data_abertura": "2023-08-12",
+      "cnae_fiscal": "4781400",
+      "logradouro": "AVENIDA PAULISTA",
+      "numero": "1000",
+      "bairro": "BELA VISTA",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "cep": "01310100",
+      "telefone": "11991234567",
+      "email": "contato@modelomoda.com.br",
+      "status_prospeccao": "NEW"
+    },
+    {
+      "cnpj": "56789012000100",
+      "razao_social": "PADRAO PERFUMARIA E ARTIGOS LTDA",
+      "nome_fantasia": "PADRAO ESSENCIA",
+      "situacao_cadastral": "ATIVA",
+      "data_abertura": "2022-03-30",
+      "cnae_fiscal": "4772500",
+      "logradouro": "RUA AUGUSTA",
+      "numero": "1500",
+      "bairro": "CONSOLACAO",
+      "municipio": "SAO PAULO",
+      "uf": "SP",
+      "cep": "01304001",
+      "telefone": "11992345678",
+      "email": "contato@padraoessencia.com.br",
+      "status_prospeccao": "NEW"
+    }
+  ]
+}

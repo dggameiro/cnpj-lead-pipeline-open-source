@@ -1,0 +1,22 @@
+# Ambientes virtuais
+venv/
+.env
+.venv/
+env/
+
+# Python cache e bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Arquivos temporários de sistema
+.DS_Store
+Thumbs.db
+
+# Banco temporário de testes
+database/test_*.db
+data/test_*.csv
+data/test_*.html
+

@@ -1,0 +1,17 @@
+[
+  {
+    "code": "4781400",
+    "description": "Comércio varejista de artigos do vestuário e acessórios",
+    "segment": "Moda e Vestuário"
+  },
+  {
+    "code": "4772500",
+    "description": "Comércio varejista de cosméticos, produtos de perfumaria e higiene pessoal",
+    "segment": "Beleza e Cosméticos"
+  },
+  {
+    "code": "4782201",
+    "description": "Comércio varejista de calçados",
+    "segment": "Calçados e Bolsas"
+  }
+]

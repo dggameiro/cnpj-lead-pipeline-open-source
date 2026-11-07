@@ -1,0 +1,53 @@
+[
+  {
+    "cnpj": "12345678000195",
+    "razao_social": "EXEMPLO COMERCIO DE ROUPAS LTDA",
+    "nome_fantasia": "EXEMPLO MODAS",
+    "situacao_cadastral": "ATIVA",
+    "data_abertura": "2023-01-15",
+    "cnae_fiscal": "4781400",
+    "logradouro": "AVENIDA EXEMPLO",
+    "numero": "100",
+    "bairro": "CENTRO",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "cep": "01001000",
+    "telefone": "11987654321",
+    "email": "contato@exemplomodas.com.br",
+    "status_prospeccao": "NEW"
+  },
+  {
+    "cnpj": "23456789000195",
+    "razao_social": "AMOSTRA CALCADOS E ACESSORIOS LTDA",
+    "nome_fantasia": "AMOSTRA CALCADOS",
+    "situacao_cadastral": "ATIVA",
+    "data_abertura": "2022-05-20",
+    "cnae_fiscal": "4782201",
+    "logradouro": "RUA FICTICIA",
+    "numero": "250",
+    "bairro": "JARDIM DAS FLORES",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "cep": "01002000",
+    "telefone": "11987654322",
+    "email": "vendas@amostracalcados.com.br",
+    "status_prospeccao": "NEW"
+  },
+  {
+    "cnpj": "34567890000130",
+    "razao_social": "DEMO COSMETICOS E BELEZA LTDA",
+    "nome_fantasia": "DEMO BEAUTY",
+    "situacao_cadastral": "ATIVA",
+    "data_abertura": "2021-11-10",
+    "cnae_fiscal": "4772500",
+    "logradouro": "ALAMEDA DAS PALMEIRAS",
+    "numero": "500",
+    "bairro": "BELA VISTA",
+    "municipio": "SAO PAULO",
+    "uf": "SP",
+    "cep": "01003000",
+    "telefone": "11987654323",
+    "email": "atendimento@demobeauty.com.br",
+    "status_prospeccao": "NEW"
+  }
+]
